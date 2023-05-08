@@ -5,9 +5,9 @@
 
 ## Оглавление
 
-1. [Вкладки Elements и Console.](эмуляция-мобильных-экранов-вкладки-elements-и-console)
-2. [Вкладки Sources и Network.](вкладки-sources-и-network)
-3. [Вкладки Performance, Application и Security.](работа-с-производительностью-безопасностью-и-куками-вкладки-performance-application-и-security)
+1. [Вкладки Elements и Console.](#эмуляция-мобильных-экранов-вкладки-elements-и-console)
+2. [Вкладки Sources и Network.](#вкладки-sources-и-network)
+3. [Вкладки Performance, Application и Security.](#работа-с-производительностью-безопасностью-и-куками-вкладки-performance-application-и-security)
 
 _____
 
