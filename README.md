@@ -5,6 +5,10 @@
 
 ## Оглавление
 
+1. [Вкладки Elements и Console.](эмуляция-мобильных-экранов-вкладки-elements-и-console)
+2. [Вкладки Sources и Network.](вкладки-sources-и-network)
+3. [Вкладки Performance, Application и Security.](работа-с-производительностью-безопасностью-и-куками-вкладки-performance-application-и-security)
+
 ### Эмуляция мобильных экранов. Вкладки Elements и Console.
 1. #### Сэмулировать на выбор два мобильных девайса.
 ![image](https://user-images.githubusercontent.com/97261554/236709646-e1803044-db57-4ae1-8bd1-0cc8669a28e9.png)![image](https://user-images.githubusercontent.com/97261554/236709987-40dff923-4def-4a12-82ed-e9cde5d59c86.png)
